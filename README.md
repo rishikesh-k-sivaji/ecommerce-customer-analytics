@@ -2,7 +2,7 @@
 
 An end-to-end data science and analytics project on 50,000 customer records covering churn prediction, customer segmentation, and lifetime value regression — with results visualised in an interactive Power BI dashboard.
 
-![Dashboard Banner](images/banner.png)
+![Dashboard Banner](images/power_bi_page1.png)
 <!-- screenshot of your Power BI dashboard — any page works, Page 1 is best -->
 
 ---
@@ -210,16 +210,16 @@ Platinum customers are worth **4.6× more** than Bronze — the strongest action
 
 4-page interactive dashboard built from the CSV outputs of the Python pipeline.
 
-![Page 1 Executive Summary](images/powerbi_page1.png)
+![Page 1 Executive Summary](images/power_bi_page1.png)
 <!-- screenshot of Power BI Page 1 -->
 
-![Page 2 Customer Segmentation](images/powerbi_page2.png)
+![Page 2 Customer Segmentation](images/power_bi_page2.png)
 <!-- screenshot of Power BI Page 2 -->
 
-![Page 3 Churn Analysis](images/powerbi_page3.png)
+![Page 3 Churn Analysis](images/power_bi_page3.png)
 <!-- screenshot of Power BI Page 3 -->
 
-![Page 4 CLV Analysis](images/powerbi_page4.png)
+![Page 4 CLV Analysis](images/power_bi_page4.png)
 <!-- screenshot of Power BI Page 4 -->
 
 | Page | Content |
@@ -279,8 +279,4 @@ All images go inside an `images/` folder in your project root.
 
 ---
 
-## Author
 
-**Your Name**
-- LinkedIn: [your linkedin url]
-- GitHub: [your github url]
