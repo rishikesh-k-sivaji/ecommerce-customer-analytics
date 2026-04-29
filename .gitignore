@@ -1,0 +1,15 @@
+# generated CSV files — reproduced by running the code
+customer_clean.csv
+customer_encoded.csv
+customer_segments.csv
+customer_clean_with_predictions.csv
+churn_predictions.csv
+clv_predictions.csv
+
+# pkl files — large and reproduced by running the code
+*.pkl
+
+# system files
+.DS_Store
+__pycache__/
+*.pyc
